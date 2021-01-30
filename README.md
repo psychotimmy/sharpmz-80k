@@ -7,6 +7,7 @@ BASIC SP-5025
 
 1. A prime number generator, using the sieve of Erastothenes algorithm.
 2. An implementation of Computing Today's "The Valley" game, published April 1982.
+3. Mad Max 2021. Source unknown - possibly Computer and Video Games 1982/83?
 
 Sharp MZ-80K emulators (such as the EmuZ-80K - http://takeda-toshiya.my.coocan.jp/mz80k/index.html) will work
 directly with the .mzf files stored here. 
