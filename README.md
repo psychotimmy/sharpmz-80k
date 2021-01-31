@@ -8,6 +8,8 @@ BASIC SP-5025
 1. A prime number generator, using the sieve of Erastothenes algorithm.
 2. An implementation of Computing Today's "The Valley" game, published April 1982.
 3. Mad Max 2021. Source unknown - possibly Computer and Video Games 1982/83?
+4. E24 Parascan. Based on a program published in Practical Electronics in November 1979. The graphics were added by me from a version I wrote for a RM-380Z (since lost).
+5. Res Parascan. Based on the E24 Parascan program, but with the E24 resistance range replaced by the range of actual resistors I have to hand as of January 2021.
 
 Sharp MZ-80K emulators (such as the EmuZ-80K - http://takeda-toshiya.my.coocan.jp/mz80k/index.html) will work
 directly with the .mzf files stored here. 
