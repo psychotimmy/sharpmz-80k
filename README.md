@@ -10,6 +10,7 @@ BASIC SP-5025
 3. Mad Max 2021. Source unknown - possibly Computer and Video Games 1982/83?
 4. E24 Parascan. Based on a program published in Practical Electronics in November 1979. The graphics were added by me from a version I wrote for a RM-380Z (since lost).
 5. Res Parascan. Based on the E24 Parascan program, but with the E24 resistance range replaced by the range of actual resistors I have to hand as of January 2021.
+6. Duck Shoot. Credited in the listing to Southern Software 1980 - but probably entered into the MZ-80K by my brother from a magazine. There are a few bugs apparent in the game, but none are serious enough to stop it from working.
 
 Sharp MZ-80K emulators (such as the EmuZ-80K - http://takeda-toshiya.my.coocan.jp/mz80k/index.html) will work
 directly with the .mzf files stored here. 
