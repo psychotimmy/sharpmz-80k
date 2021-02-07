@@ -13,7 +13,7 @@ BASIC SP-5025
 6. Duck Shoot. Credited in the listing to Southern Software 1980 - but probably entered into the MZ-80K by my brother from a magazine. There are a few bugs apparent in the game, but none are serious enough to stop it from working.
 7. Race Chase. A game from a 1982 copy of Personal Computer World. How many targets can you hit before the missile hits you?
 8. Epidemic. You are the antibody racing to cure the infection. Will you manage to do it in time or will the penicillin be needed? From Computer and Video Games, August 1983.
-9. Ski run 2021. From Compouting Today, October 1980. The music that introduces the game is (I think) meant to be the theme from the BBC TV show 'Ski Sunday', but is highly inaccurate if so! 
+9. Ski run 2021. From Computing Today, October 1980. The music that introduces the game is (I think) meant to be the theme from the BBC TV show 'Ski Sunday', but is highly inaccurate if so! 
 
 Sharp MZ-80K emulators (such as the EmuZ-80K - http://takeda-toshiya.my.coocan.jp/mz80k/index.html) will work
 directly with the .mzf files stored here. 
