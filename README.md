@@ -1,7 +1,7 @@
 # sharpmz-80k
 Sharp MZ-80K programs (.mzf format)
 
-As of January 30th 2021, the following have been archived here:
+As of February 7th 2021, the following have been archived here:
 
 BASIC SP-5025
 
