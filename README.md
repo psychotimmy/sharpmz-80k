@@ -1,7 +1,7 @@
 # sharpmz-80k
 Sharp MZ-80K programs (.mzf format)
 
-As of June 22nd 2021, the following have been archived here:
+As of 7th February 2022, the following programs are archived here:
 
 BASIC SP-5025
 
@@ -15,6 +15,7 @@ BASIC SP-5025
 8.  Race Chase. A game from a 1982 copy of Personal Computer World. How many targets can you hit before the missile hits you?
 9.  Epidemic. You are the antibody racing to cure the infection. Will you manage to do it in time or will the penicillin be needed? From Computer and Video Games, August 1983.
 10. Ski run 2021. From Computing Today, October 1980. The music that introduces the game is (I think) meant to be the theme from the BBC TV show 'Ski Sunday', but is highly inaccurate if so!
+11. Attributed to Newton. Ten line BASIC game written for the 2022 contest. Guess which phrases are correcty attributed to Newton to boost your wisdom percentage.
 
 KNIGHT's WEE PASCAL
 
