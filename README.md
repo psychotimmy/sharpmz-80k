@@ -22,7 +22,7 @@ KNIGHT's WEE PASCAL
 
 1. Knight's Wee Pascal Documentation - a scan (pdf format) of the documentation supplied with Knight's Wee Pascal - an integer Pascal interpreter.
 
-Sharp MZ-80K emulators (such as the EmuZ-80K - http://takeda-toshiya.my.coocan.jp/mz80k/index.html or [Pico MZ-80K](https://github.com/psychotimmy/picomz-80k) will work
+Sharp MZ-80K emulators, including [EmuZ-80K](http://takeda-toshiya.my.coocan.jp/mz80k/index.html) and [Pico MZ-80K](https://github.com/psychotimmy/picomz-80k) will work
 directly with the .mzf files stored here, provided that you have already loaded the necessary language "tape" first - available from archive sites including https://sharpmz.no/. 
 
 If you are fortunate enough to have access to the real thing with a tape deck, mzf files need to be converted into
