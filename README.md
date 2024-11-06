@@ -1,7 +1,7 @@
 # sharpmz-80k
 Sharp MZ-80K programs (.mzf format)
 
-As of 7th February 2022, the following programs are archived here:
+As of 6th November 2024, the following programs are archived here:
 
 BASIC SP-5025
 
@@ -13,9 +13,10 @@ BASIC SP-5025
 6.  Res Parascan. Based on the E24 Parascan program, but with the E24 resistance range replaced by the range of actual resistors I have to hand as of January 2021.
 7.  Duck Shoot. Credited in the listing to Southern Software 1980 - but probably entered into the MZ-80K by my brother from a magazine. There are a few bugs apparent in the game, but none are serious enough to stop it from working.
 8.  Race Chase. A game from a 1982 copy of Personal Computer World. How many targets can you hit before the missile hits you?
-9.  Epidemic. You are the antibody racing to cure the infection. Will you manage to do it in time or will the penicillin be needed? From Computer and Video Games, August 1983.
-10. Ski run 2021. From Computing Today, October 1980. The music that introduces the game is (I think) meant to be the theme from the BBC TV show 'Ski Sunday', but is highly inaccurate if so!
-11. Attributed to Newton. Ten line BASIC game written for the 2022 contest. Guess which phrases are correctly attributed to Newton to boost your wisdom percentage.
+9.  Road Shooter. Run over or shoot as many aliens in 40 seconds as you can, while avoiding the mines.
+10.  Epidemic. You are the antibody racing to cure the infection. Will you manage to do it in time or will the penicillin be needed? From Computer and Video Games, August 1983.
+11. Ski run 2021. From Computing Today, October 1980. The music that introduces the game is (I think) meant to be the theme from the BBC TV show 'Ski Sunday', but is highly inaccurate if so!
+12. Attributed to Newton. Ten line BASIC game written for the 2022 contest. Guess which phrases are correctly attributed to Newton to boost your wisdom percentage.
 
 KNIGHT's WEE PASCAL
 
