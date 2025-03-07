@@ -1,7 +1,7 @@
 # sharpmz-80k
 Sharp MZ-80K programs (.mzf format)
 
-As of 6th November 2024, the following programs are archived here:
+As of 7th March 2025, the following programs are archived here:
 
 BASIC SP-5025
 
@@ -17,6 +17,7 @@ BASIC SP-5025
 10.  Epidemic. You are the antibody racing to cure the infection. Will you manage to do it in time or will the penicillin be needed? From Computer and Video Games, August 1983.
 11. Ski run 2021. From Computing Today, October 1980. The music that introduces the game is (I think) meant to be the theme from the BBC TV show 'Ski Sunday', but is highly inaccurate if so!
 12. Attributed to Newton. Ten line BASIC game written for the 2022 contest. Guess which phrases are correctly attributed to Newton to boost your wisdom percentage.
+13. Eclipse. Adapted from the book "Celestial BASIC", this program calculates the magnitude and date of lunar umbral eclipses.
 
 KNIGHT's WEE PASCAL
 
