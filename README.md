@@ -1,7 +1,7 @@
 # sharpmz-80k
 Sharp MZ-80K programs (.mzf format)
 
-As of 7th March 2025, the following programs are archived here:
+As of 20th April 2025, the following programs are archived here:
 
 BASIC SP-5025
 
@@ -18,12 +18,13 @@ BASIC SP-5025
 11. Ski run 2021. From Computing Today, October 1980. The music that introduces the game is (I think) meant to be the theme from the BBC TV show 'Ski Sunday', but is highly inaccurate if so!
 12. Attributed to Newton. Ten line BASIC game written for the 2022 contest. Guess which phrases are correctly attributed to Newton to boost your wisdom percentage.
 13. Eclipse. Adapted from the book "Celestial BASIC", this program calculates the magnitude and date of lunar umbral eclipses.
+14. Easter Sunday. Calculates the Gregorian date of Easter Sunday for any year from 1753. Uses the O'Beirne algorithm.
 
 KNIGHT's WEE PASCAL
 
 1. Knight's Wee Pascal Documentation - a scan (pdf format) of the documentation supplied with Knight's Wee Pascal - an integer Pascal interpreter.
 
-Sharp MZ-80K emulators, including [EmuZ-80K](http://takeda-toshiya.my.coocan.jp/mz80k/index.html) and [Pico MZ-80K](https://github.com/psychotimmy/picomz-80k) will work
+Sharp MZ-80K emulators, including [EmuZ-80K](http://takeda-toshiya.my.coocan.jp/mz80k/index.html) and [Pico MZ-80K/A](https://github.com/psychotimmy/picomz-80k) will work
 directly with the .mzf files stored here, provided that you have already loaded the necessary language "tape" first - available from archive sites including https://sharpmz.no/original. 
 
 If you are fortunate enough to have access to the real thing with a tape deck, mzf files need to be converted into
