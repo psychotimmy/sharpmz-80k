@@ -1,7 +1,7 @@
 # sharpmz-80k
 Sharp MZ-80K programs (.mzf format)
 
-As of 20th April 2025, the following programs are archived here:
+As of 3rd July 2025, the following programs are archived here:
 
 BASIC SP-5025
 
@@ -19,6 +19,7 @@ BASIC SP-5025
 12. Attributed to Newton. Ten line BASIC game written for the 2022 contest. Guess which phrases are correctly attributed to Newton to boost your wisdom percentage.
 13. Eclipse. Adapted from the book "Celestial BASIC", this program calculates the magnitude and date of lunar umbral eclipses.
 14. Easter Sunday. Calculates the Gregorian date of Easter Sunday for any year from 1753. Uses the O'Beirne algorithm.
+15. Ahl's Benchmark. From Creative Computing, November 1983, pages 259-260. Takes around 80s on an MZ-80K.
 
 KNIGHT's WEE PASCAL
 
@@ -30,4 +31,3 @@ directly with the .mzf files stored here, provided that you have already loaded 
 If you are fortunate enough to have access to the real thing with a tape deck, mzf files need to be converted into
 an audio file (.wav) first. [MZFStudio](https://www.nachthacker.de/DownloadBereich.html) - is excellent for this
 conversion (and will also convert .wav files into .mzf format).
-
