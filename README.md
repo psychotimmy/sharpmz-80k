@@ -1,7 +1,7 @@
 # sharpmz-80k
 Sharp MZ-80K programs (.mzf format)
 
-As of 3rd July 2025, the following programs are archived here:
+As of 12th August 2025, the following programs are archived here:
 
 BASIC SP-5025
 
@@ -20,6 +20,7 @@ BASIC SP-5025
 13. Eclipse. Adapted from the book "Celestial BASIC", this program calculates the magnitude and date of lunar umbral eclipses.
 14. Easter Sunday. Calculates the Gregorian date of Easter Sunday for any year from 1753. Uses the O'Beirne algorithm.
 15. Ahl's Benchmark. From Creative Computing, November 1983, pages 259-260. Takes around 80s on an MZ-80K.
+16. Monster Chase V1. A simple chase game - avoid falling off the world or being eaten by the monster to score points. pdf listing also included in this repository.
 
 KNIGHT's WEE PASCAL
 
